@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:/Arduino/hardware/arduino/avr/cores/arduino/Arduino.h",
+                "{$workspaceFolder}/libraries",
+                "C:/Arduino/**",
+                "C:/Users/PSi/Documents/Arduino/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "msvc-x64",
+            "forcedInclude": [
+                "C:/Arduino/hardware/arduino/avr/cores/arduino/Arduino.h",
+                "C:/Arduino/**",
+                "C:/Users/PSi/Documents/Arduino/**"
+            ]
+        }
+    ],
+    "version": 4
+}
